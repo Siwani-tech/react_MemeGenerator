@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    background: linear-gradient(90deg, #a154bd 1.18%, #A626D3 100%);
+    color: white;
+    padding: 20px;
+}
+
+.nav--heading{
+    font-size: 20px;
+    margin-right: auto;
+}
+
+.nav--image{
+    color: white;
+    height: 100%;
+    margin-right: 6px;
+}
+
