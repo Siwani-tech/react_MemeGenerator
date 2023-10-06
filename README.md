@@ -1,7 +1,5 @@
 # react_MemeGenerator
 
-# React Meme Generator
-
 ## Description
 
 The React Meme Generator is a fun and creative web application that allows users to easily create and share hilarious memes. With a user-friendly interface, this project harnesses the power of React to provide an interactive and enjoyable meme-making experience.
